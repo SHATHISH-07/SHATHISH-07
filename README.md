@@ -4,10 +4,13 @@
 A passionate Full-Stack Developer and Computer Science Engineering student who enjoys building secure, scalable, and real-world applications from the ground up.
 </h2>
 
-I primarily work within the **MERN ecosystem**, with strong interest in **backend architecture, security, and modern web technologies**. I enjoy solving complex problems, designing clean APIs, and turning ideas into production-ready applications.
+Full-Stack Developer | MERN, TypeScript & AI Systems
 
-I have completed industry-recognized certifications such as **Full Stack Open (University of Helsinki)** and the **Google Cybersecurity Certificate**, which strengthened both my development and security foundations. Currently, I am exploring advanced concepts like **GraphQL, Redux Toolkit, TypeScript, and cloud deployments** while actively collaborating on meaningful projects.
+Final-year Computer Science Engineering student and Full-Stack Developer with hands-on experience building secure, scalable, and production-ready web applications. Strong focus on backend architecture, authentication, and security-first design.
 
+Experienced in the MERN stack, GraphQL, NestJS, and TypeScript, with growing expertise in AI-powered systems and cloud deployments. Built real-world projects including an AI-driven learning SaaS platform, a secure e-commerce system, and a Personal AI Knowledge Assistant using Retrieval-Augmented Generation (RAG).
+
+Certified by the University of Helsinki (Full Stack Open) and Google (Cybersecurity & AI). Passionate about clean APIs, system design, and solving real-world problems through technology.
 ---
 
 ## 🌐 Connect With Me
@@ -53,6 +56,17 @@ I have completed industry-recognized certifications such as **Full Stack Open (U
 ---
 
 ## 🚀 Projects
+
+### 🤖 OpenLuma – Personal AI Knowledge Assistant
+**Tech** : NestJS, MongoDB, Qdrant, Sentence Transformers, Groq LLM, React, Tailwind CSS, JWT, Google OAuth
+- Built a secure, private Personal AI Knowledge Assistant using Retrieval-Augmented Generation (RAG).
+- Implemented a complete RAG pipeline including document ingestion, text extraction, chunking, embeddings, and vector-based retrieval.
+- Designed user-isolated vector storage with Qdrant using metadata filtering to ensure data privacy.
+- Integrated JWT authentication with refresh token rotation, Google OAuth, email verification, and password reset workflows.
+- Developed an interactive chat interface with Markdown rendering, syntax highlighting, and source-aware responses.
+- Ensured zero hallucination AI responses through strict prompt control and context-only inference.
+
+---
 
 ### 🛒 E-Commerce Application
 **Tech:** React, TypeScript, Redux Toolkit, Tailwind CSS, GraphQL, MongoDB  
